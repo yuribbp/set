@@ -9,7 +9,7 @@ public class Program {
 
 		Set<String> set = new TreeSet<>();
 		
-		set.add("TV");
+		set.add("Tv");
 		set.add("Tablet");
 		set.add("Notebook");
 		
